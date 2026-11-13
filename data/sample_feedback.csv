@@ -1,0 +1,126 @@
+id,received,channel,route,stop,text
+F0001,2026-10-12,phone,2,Móricz Zsigmond körtér,"Just before 9: the driver waited for an elderly lady, very polite and helpful. Thank you! Second time this month."
+F0002,2026-10-13,app,tram 4,Széll Kálmán tér,It was full and I was squeezed against the door the whole way early on Sunday. Please look into it.
+F0003,2026-10-14,web,47,Boráros tér,On my way to university: the driver braked so hard that a passenger fell. It was raining as well.
+F0004,2026-10-14,email,metro 2,Keleti pályaudvar,The app charged my card twice for one monthly pass yesterday. It keeps happening.
+F0005,2026-10-14,app,tram 4,Blaha Lujza tér,On Monday: tram was 20 minutes late again this morning. I had a small child with me.
+F0006,14/10/2026,email,Bus 7,Boráros tér,The bus was so crowded that people were left at the stop on Wednesday afternoon. This was heading towards the centre.
+F0007,2026-10-14,phone, 6,Nyugati pályaudvar,"Yesterday: waited 30 minutes at the stop, two trams came together after that. It was raining as well."
+F0008,2026.10.14.,phone,7,Nyugati pályaudvar,Yesterday: it was full and I was squeezed against the door the whole way. Not what I expect for the price of a pass.
+F0009,15/10/2026,web, 6,Keleti pályaudvar,After work: the 18:15 service was cancelled without any notice. Other passengers were complaining too.
+F0010,2026-10-15,phone,100E,Boráros tér,The ticket machine took my money but gave no ticket on Monday. This was heading towards the centre.
+F0011,2026.10.15.,app,2,Kálvin tér,"On Monday: overcrowded every morning, a longer vehicle is needed. This was heading towards the centre."
+F0012,2026-10-16,phone,tram 4,Kálvin tér,Around 7:40: tram was 12 minutes late again this morning.
+F0013,2026-10-16,app,7,Blaha Lujza tér,Music from the driver's cabin was really loud after work. Not what I expect for the price of a pass.
+F0014,2026.10.16.,phone,M3,Nyugati pályaudvar,"This morning: elevator broken, had to carry a stroller down the steps. It was raining as well."
+F0015,2026-10-16,email,metro 3,Nyugati pályaudvar,"  the escalator is out of order again, hard with a pram early on sunday. i use this line every day."
+F0016,2026.10.16.,web,metro 3,Nyugati pályaudvar,"The escalator is out of order again, hard with a pram early on Sunday. I use this line every day."
+F0017,2026-10-16,phone,4 ,Kálvin tér,"At lunchtime: driver closed the doors while people were still getting on, rude. Other passengers were complaining too."
+F0018,2026-10-16,app,Tram 4,Móricz Zsigmond körtér,"The driver waited for an elderly lady, very polite and helpful. Thank you early on Sunday! I was late for work because of it."
+F0019,2026-10-17,email,2,Astoria,"Ticket inspector shouted at a tourist, very unfriendly in the evening rush. It keeps happening."
+F9001,2026-10-19,web,6,Blaha Lujza tér,
+F0020,2026.10.17.,web,47,Kálvin tér,This morning: sticky floor and rubbish under the seats. Second time this month.
+F0021,2026-10-18,web,7,Boráros tér,On Monday: it was full and I was squeezed against the door the whole way. I was late for work because of it.
+F0022,2026-10-18,phone,bus 9,Széll Kálmán tér,"Yesterday: no announcement about the diversion, nobody knew where to go. Not what I expect for the price of a pass."
+F0023,2026-10-19,app, 6,Kálvin tér,Around 7:40: missed my connection because the bus was delayed by 20 minutes. Please look into it.
+F0024,19/10/2026,web,47,Corvin-negyed,Validator did not work so I could not validate my ticket this morning. Second time this month.
+F0025,2026-10-19,app,9,Móricz Zsigmond körtér,"Around 7:40: i would like a refund, the machine printed a blank ticket. It keeps happening."
+F0026,2026-10-19,web,bus 9,Kálvin tér,Yesterday: the timetable at the stop is out of date. This was heading towards the centre.
+F0027,2026-10-20,web,tram 4,Kálvin tér,On Saturday night: the driver was rude when I asked a question. Second time this month.
+F0028,2026-10-21,web,7,Boráros tér,"On Wednesday afternoon: overcrowded every morning, a longer vehicle is needed."
+F0029,22/10/2026,app,Tram 47,Deák Ferenc tér,"The driver waited for an elderly lady, very polite and helpful. Thank you this morning! I use this line every day."
+F0030,2026-10-22,web,m3,Nyugati pályaudvar,"On Saturday night: elevator broken, had to carry a stroller down the steps. It keeps happening."
+F0031,2026-10-22,phone,9,Móricz Zsigmond körtér,"No announcement about the diversion, nobody knew where to go today. I had a small child with me."
+F0032,2026-10-22,phone,4,Astoria,Tram was 15 minutes late again this morning yesterday. Please look into it.
+F0033,2026-10-22,web,bus 7,Nyugati pályaudvar,"Today: completely packed at 8am, could not get on. It was raining as well."
+F0034,22/10/2026,email,M3,Nyugati pályaudvar,"Elevator broken, had to carry a stroller down the steps on Monday. Second time this month."
+F0035,2026-10-22,web,100e,Keleti pályaudvar,Missed my connection because the bus was delayed by 10 minutes just before 9. I use this line every day.
+F0036,2026-10-22,web,M2,Keleti pályaudvar,Just before 9: the app charged my card twice for one monthly pass. I use this line every day.
+F0037,2026.10.22.,email,tram 4,Keleti pályaudvar,"In the evening rush: the platform was slippery and not gritted, dangerous. Second time this month."
+F0038,2026-10-23,web,M3,Nyugati pályaudvar,"Elevator broken, had to carry a stroller down the steps on Monday. Second time this month. Please fix this."
+F0039,2026-10-23,app,Tram 47,Keleti pályaudvar,The seats were dirty and there was litter on the floor in the evening rush. Second time this month.
+F0040,23/10/2026,email,7,Keleti pályaudvar,"Overcrowded every morning, a longer vehicle is needed after work. I use this line every day."
+F0041,2026-10-23,email,bus 7,Boráros tér,On Wednesday afternoon: the bus was so crowded that people were left at the stop. I had a small child with me.
+F0042,2026-10-23,phone,9,Széll Kálmán tér,"No announcement about the diversion, nobody knew where to go early on Sunday. Second time this month."
+F0043,2026-10-24,web,M4,Deák Ferenc tér,It was full and I was squeezed against the door the whole way after work.
+F0044,24/10/2026,app,bus 9,Keleti pályaudvar,The bus was so crowded that people were left at the stop on Wednesday afternoon. It was raining as well.
+F0045,2026-10-24,web,M4,Széll Kálmán tér,"Felt unsafe at night, there was a fight in the last carriage just before 9. It keeps happening."
+F0046,2026-10-24,web,M3,Blaha Lujza tér,"On my way to university: felt unsafe at night, there was a fight in the last carriage. Other passengers were complaining too."
+F0047,2026-10-25,web,M3,Nyugati pályaudvar,"Elevator broken, had to carry a stroller down the steps two days ago. Other passengers were complaining too."
+F0048,2026-10-25,email,tram 4,Blaha Lujza tér,Today: third time this week that it arrived late. I waited almost 15 minutes.
+F0049,2026-10-25,web,metro 2,Keleti pályaudvar,The ticket machine took my money but gave no ticket on Friday. Please look into it.
+F0050,2026-10-25,web,6,Széll Kálmán tér,"Around 7:40: waited 20 minutes at the stop, two trams came together after that."
+F0051,2026.10.25.,web,6,Astoria,"Waited 25 minutes at the stop, two trams came together after that at about 17:10."
+F0052,25/10/2026,email,M3,Nyugati pályaudvar,"Elevator broken, had to carry a stroller down the steps two days ago. Other passengers were complaining too. Please fix this."
+F0053,25/10/2026,email,6,Széll Kálmán tér,"Around 7:40: waited 20 minutes at the stop, two trams came together after that."
+F9002,last tuesday,phone,7,,Bus did not stop even though I rang the bell.
+F0054,2026-10-25,web,tram 2,Blaha Lujza tér,"Driver closed the doors while people were still getting on, rude at lunchtime. Not what I expect for the price of a pass."
+F0055,2026-10-26,email,metro 3,Nyugati pályaudvar,  no ramp was put out for my wheelchair today.
+F0056,2026-10-26,web,metro 2,Deák Ferenc tér,"The driver waited for an elderly lady, very polite and helpful. Thank you early on Sunday! I had a small child with me."
+F0057,26/10/2026,email,6,Astoria,Missed my connection because the bus was delayed by 15 minutes at about 17:10. This was heading towards the centre.
+F0058,2026-10-26,phone,metro 3,Nyugati pályaudvar,No ramp was put out for my wheelchair today.
+F0059,2026.10.26.,email,Tram 4,Corvin-negyed,In the evening rush: third time this week that it arrived late. I waited almost 20 minutes. It keeps happening.
+F0060,2026-10-26,web,Tram 47,Blaha Lujza tér,"Overcrowded every morning, a longer vehicle is needed in the evening rush. It keeps happening."
+F0061,2026-10-27,web,tram 2,Corvin-negyed,"At lunchtime: driver closed the doors while people were still getting on, rude."
+F0062,2026-10-27,email,Tram 47,Széll Kálmán tér,The timetable at the stop is out of date on Friday.
+F0063,2026-10-27,web,tram 6,Móricz Zsigmond körtér,This morning: missed my connection because the bus was delayed by 30 minutes. I had a small child with me.
+F0064,2026-10-27,web,7,Kálvin tér,It was full and I was squeezed against the door the whole way on Saturday night. I had a small child with me.
+F0065,2026-10-27,phone,tram 4,Széll Kálmán tér,Third time this week that it arrived late. I waited almost 18 minutes two days ago. Second time this month.
+F0066,2026-10-27,web,M2,Keleti pályaudvar,Just before 9: the app charged my card twice for one monthly pass.
+F0067,2026.10.27.,email,4,Corvin-negyed,The display at the stop showed the wrong times at lunchtime. I was late for work because of it.
+F0068,2026-10-27,email,M2,Keleti pályaudvar,Just before 9: the app charged my card twice for one monthly pass!
+F0069,2026-10-27,web,4,Astoria,Tram was 25 minutes late again this morning two days ago. Please look into it.
+F0070,2026-10-27,email,tram 2,Corvin-negyed,"  at lunchtime: driver closed the doors while people were still getting on, rude."
+F0071,2026-10-28,email,tram 6,Móricz Zsigmond körtér,This morning: missed my connection because the bus was delayed by 30 minutes. I had a small child with me.
+F0072,2026-10-28,web,m4,Széll Kálmán tér,"Felt unsafe at night, there was a fight in the last carriage two days ago. This was heading towards the centre."
+F0073,2026-10-28,phone,Tram 4,Boráros tér,"At lunchtime: waited 12 minutes at the stop, two trams came together after that. I had a small child with me."
+F0074,2026-10-29,email,bus 7,Kálvin tér,The bus was so crowded that people were left at the stop on Monday.
+F0075,2026-10-29,email,M3,Nyugati pályaudvar,At lunchtime: the lift has not worked for a week. I use a wheelchair and cannot reach the platform. I use this line every day.
+F0076,2026-10-29,web,Tram 47,Keleti pályaudvar,Just before 9: the display at the stop showed the wrong times. Please look into it.
+F0077,2026-10-30,web,M2,Keleti pályaudvar,The ticket machine took my money but gave no ticket around 7:40. Not what I expect for the price of a pass.
+F0078,30/10/2026,web,Tram 47,Deák Ferenc tér,At about 17:10: the seats were dirty and there was litter on the floor. Other passengers were complaining too.
+F0079,2026-10-30,web,100E,Móricz Zsigmond körtér,Validator did not work so I could not validate my ticket on my way to university. This was heading towards the centre.
+F0080,2026.10.30.,email,47,Corvin-negyed,On Wednesday afternoon: strong smell in the second carriage. Other passengers were complaining too.
+F0081,2026-10-31,web,100e,Keleti pályaudvar,On Monday: third time this week that it arrived late. I waited almost 20 minutes. I use this line every day.
+F0082,2026-10-31,web,metro 3,Nyugati pályaudvar,The lift has not worked for a week. I use a wheelchair and cannot reach the platform around 7:40. It keeps happening.
+F0083,2026-10-31,web,9,,"Yesterday: no announcement about the diversion, nobody knew where to go. Other passengers were complaining too."
+F0084,2026-10-31,email,Tram 47,Astoria,"Just before 9: the escalator is out of order again, hard with a pram. Second time this month."
+F0085,2026-11-01,app,6,Corvin-negyed,In the evening rush: missed my connection because the bus was delayed by 20 minutes.
+F0086,2026-11-01,email,M2,Keleti pályaudvar,At lunchtime: validator did not work so I could not validate my ticket. I had a small child with me.
+F0087,2026-11-02,app,Tram 4,Keleti pályaudvar,"Two days ago: waited 20 minutes at the stop, two trams came together after that. This was heading towards the centre."
+F0087,2026-11-02,email,4,Corvin-negyed,Tram was 20 minutes late.
+F0088,2026.11.02.,email,7,Móricz Zsigmond körtér,Early on Sunday: the bus was so crowded that people were left at the stop. I had a small child with me.
+F0089,2026.11.02.,web,tram 6,Deák Ferenc tér,"On Wednesday afternoon: lovely new vehicles, well done. Not what I expect for the price of a pass."
+F0090,02/11/2026,web,6,Deák Ferenc tér,Missed my connection because the bus was delayed by 30 minutes at lunchtime. Other passengers were complaining too.
+F0091,2026-11-02,web,m4,Móricz Zsigmond körtér,Could you add a stop closer to the hospital this morning? This was heading towards the centre.
+F0092,2026-11-03,phone,m3,Nyugati pályaudvar,"Elevator broken, had to carry a stroller down the steps today. I had a small child with me."
+F0093,2026-11-03,email,6,Blaha Lujza tér,The 20:15 service was cancelled without any notice at lunchtime. Other passengers were complaining too.
+F0094,2026-11-03,app,M2,Keleti pályaudvar,"I would like a refund, the machine printed a blank ticket around 7:40. It was raining as well."
+F0095,04/11/2026,web,4 ,Astoria,Just before 9: missed my connection because the bus was delayed by 12 minutes. It was raining as well.
+F0096,2026-11-04,phone,tram 6,Keleti pályaudvar,The 15:15 service was cancelled without any notice on Friday. I was late for work because of it.
+F0097,2026-11-04,email,tram 6,Keleti pályaudvar,The 15:15 service was cancelled without any notice on Friday. I was late for work because of it.
+F0098,2026.11.04.,web,M3,Nyugati pályaudvar,The lift has not worked for a week. I use a wheelchair and cannot reach the platform two days ago.
+F0099,2026.11.05.,app,M4,Keleti pályaudvar,Early on Sunday: the driver braked so hard that a passenger fell. It keeps happening.
+F0100,2026-11-05,email,100e,Széll Kálmán tér,"I would like a refund, the machine printed a blank ticket yesterday. It was raining as well."
+F0101,2026.11.05.,web, 6,Nyugati pályaudvar,Around 7:40: the 12:15 service was cancelled without any notice. I use this line every day.
+F0102,2026-11-05,phone,,,Yesterday: why is there no night service on Sundays? It keeps happening.
+F0103,2026-11-05,email,metro 2,Keleti pályaudvar,"I would like a refund, the machine printed a blank ticket at lunchtime. Other passengers were complaining too."
+F0104,2026-11-05,phone,2,Móricz Zsigmond körtér,"Driver closed the doors while people were still getting on, rude on Wednesday afternoon. Please look into it."
+F0105,2026-11-05,web,47,Corvin-negyed,Sticky floor and rubbish under the seats on my way to university.
+F0106,2026-11-05,email,Tram 4,Keleti pályaudvar,Missed my connection because the bus was delayed by 25 minutes today. It was raining as well.
+F0107,2026-11-05,web,tram 4,Keleti pályaudvar,Tram was 15 minutes late again this morning on my way to university.
+F0108,2026-11-05,phone,Tram 4,Astoria,Today: tram was 12 minutes late again this morning. Other passengers were complaining too.
+F0109,06/11/2026,email,6,Boráros tér,Tram was 25 minutes late again this morning on Monday. Not what I expect for the price of a pass.
+F0110,2026-11-06,web,4 ,Boráros tér,"Around 7:40: the platform was slippery and not gritted, dangerous. It keeps happening."
+F0111,2026-11-06,phone,6,Nyugati pályaudvar,On Wednesday afternoon: the lift has not worked for a week. I use a wheelchair and cannot reach the platform. It was raining as well.
+F0112,06/11/2026,web,7,Nyugati pályaudvar,At about 17:10: the driver was rude when I asked a question. I was late for work because of it.
+F0113,2026.11.06.,web,Bus 7,Corvin-negyed,Early on Sunday: it was full and I was squeezed against the door the whole way. I was late for work because of it.
+F0114,2026-11-06,phone,4,Corvin-negyed,Around 7:40: the 15:15 service was cancelled without any notice. I use this line every day.
+F0115,2026-11-06,web,Bus 7,Széll Kálmán tér,"On Monday: completely packed at 8am, could not get on."
+F0116,2026-11-07,phone,metro 3,Nyugati pályaudvar,The lift has not worked for a week. I use a wheelchair and cannot reach the platform this morning. It keeps happening.
+F0117,2026-11-07,app,100e,Kálvin tér,"At lunchtime: the driver waited for an elderly lady, very polite and helpful. Thank you! Not what I expect for the price of a pass."
+F0118,2026-11-07,web,4 ,Kálvin tér,On Friday: tram was 30 minutes late again this morning. Other passengers were complaining too.
+F0119,2026.11.07.,app,m4,Keleti pályaudvar,"Around 7:40: the driver waited for an elderly lady, very polite and helpful. Thank you! Not what I expect for the price of a pass."
+F0120,2026-11-08,email,tram 4,Corvin-negyed,"I would like a refund, the machine printed a blank ticket on my way to university. Other passengers were complaining too."
+F0121,2026-11-08,web,bus 9,Corvin-negyed,On my way to university: the display at the stop showed the wrong times.
+F0122,2026-11-08,app,4,Móricz Zsigmond körtér,Third time this week that it arrived late. I waited almost 30 minutes in the evening rush. It was raining as well.

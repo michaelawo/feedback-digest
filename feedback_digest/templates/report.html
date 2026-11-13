@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Feedback digest</title>
+<style>
+$css
+</style>
+</head>
+<body>
+<main>
+  <h1>Feedback digest</h1>
+  <p class="meta">$source · $period</p>
+
+  <section class="tiles">
+    <div class="tile"><span class="tile-number">$total</span><span class="tile-label">messages counted</span></div>
+    <div class="tile"><span class="tile-number">$duplicates</span><span class="tile-label">copies left out</span></div>
+    <div class="tile"><span class="tile-number">$skipped_count</span><span class="tile-label">rows skipped</span></div>
+    <div class="tile"><span class="tile-number">$rows_read</span><span class="tile-label">rows in the file</span></div>
+  </section>
+
+  <section>
+    <h2>Where the same problem keeps coming back</h2>
+    <p class="note">Routes with three or more messages of the same kind. The message shown is the most recent one.</p>
+    <table>
+      <thead><tr><th>Route</th><th>Category</th><th class="num">Messages</th><th>Latest message</th></tr></thead>
+      <tbody>
+$hotspots
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Messages by category</h2>
+    <table>
+      <thead><tr><th>Category</th><th>Whole period</th><th class="num">Last 7 days</th><th class="num">7 days before</th><th class="num">Change</th></tr></thead>
+      <tbody>
+$categories
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Messages by route</h2>
+    <table>
+      <thead><tr><th>Route</th><th>Whole period</th></tr></thead>
+      <tbody>
+$routes
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Rows that were skipped</h2>
+    <ul class="skipped">
+$skipped
+    </ul>
+  </section>
+</main>
+</body>
+</html>
