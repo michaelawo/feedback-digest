@@ -1,0 +1,4 @@
+# The tool itself only uses the standard library.
+
+# tests
+pytest>=8.0,<9.0
